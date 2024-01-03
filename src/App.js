@@ -16,11 +16,7 @@ const App = () => {
        />
       </div>
   )
-    <div className="App">
-      <button>Ani</button>
-      <button>Main</button>
-    </div>
-  );
+  
 }
 
 export default App
