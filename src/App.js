@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <button>Ani</button>
       <button>Main</button>
+      <button>ToCheckNewCommands</button>
     </div>
   );
 }
