@@ -14,7 +14,8 @@ const App = () => {
        value={name}
        onChange={(e)=>{handleChange(e)}}
        />
-      </div>
+        <button>ToCheckNewCommands</button>
+    </div>
   )
   
 }
